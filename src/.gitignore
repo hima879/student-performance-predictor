@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-confusion_matrix.png
-feature_importance.png
-.DS_Store
