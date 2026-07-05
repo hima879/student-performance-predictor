@@ -416,3 +416,5 @@ if __name__ == "__main__":
         print(f"  • {col}:")
         for val, count in dataset[col].value_counts().items():
             print(f"      {val}: {count} ({count/len(dataset)*100:.1f}%)")
+
+# Check data module for dataset
